@@ -5,3 +5,4 @@ Refactor codebase with Z [7Fv1ZN] line 6.2
 Add test case for W [SO5uoD] line 7.2
 Improve performance [1ca438] line 8.2
 Fix issue in Y [COjjyb] line 9.2
+Update documentation [sTSAH2] line 10.1
